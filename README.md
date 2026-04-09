@@ -54,14 +54,25 @@ Run the application:
 streamlit run app.py
 Upload your dataset and view dashboard
 
+---
+
 📁 Project Structure
 app.py → Main dashboard file
 data.csv → Dataset file
 README.md → Project documentation
+
+---
+
 📷 Output
 Interactive dashboard with charts
 Data insights and visual analysis
+
+---
+
 👩‍💻 Author
 Jaya Bhunte
+
+---
+
 📌 Conclusion
 This project simplifies student data analysis by converting raw data into meaningful visual insights. It helps educators and students make better academic decisions.
