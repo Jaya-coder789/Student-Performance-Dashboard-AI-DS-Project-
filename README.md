@@ -4,7 +4,6 @@
 
 📌 Introduction
 
---
 
 The **Student Performance Dashboard** is an interactive data analysis project developed under the **Artificial Intelligence and Data Science (AIDS)** domain.  
 It helps analyze student data such as marks, attendance, and subject performance using advanced visualization techniques.
@@ -13,7 +12,6 @@ It helps analyze student data such as marks, attendance, and subject performance
 
  🎯 Objective
 
- --
  
 The main objectives of this project are:
 
@@ -25,7 +23,6 @@ The main objectives of this project are:
 
  ⚙️ Technologies Used
 
- --
  
 - 🐍 Python  
 - 📊 Pandas  
@@ -36,7 +33,6 @@ The main objectives of this project are:
 
 🚀 Features
 
---
 
 - Upload student dataset (CSV file)  
 - Data cleaning and preprocessing  
@@ -49,7 +45,6 @@ The main objectives of this project are:
 
 📊 Methodology
 
---
 
 1. Collect student data (marks, attendance, subjects)  
 2. Clean and preprocess the dataset  
@@ -62,7 +57,6 @@ The main objectives of this project are:
 
 ▶️ How to Run the Project
 
---
 
 Install required libraries:
 
@@ -76,7 +70,6 @@ Upload your dataset and view dashboard
 
 📁 Project Structure
 
---
 
 app.py → Main dashboard file
 data.csv → Dataset file
@@ -86,7 +79,6 @@ README.md → Project documentation
 
 📷 Output
 
---
 
 Interactive dashboard with charts
 Data insights and visual analysis
@@ -95,7 +87,6 @@ Data insights and visual analysis
 
 👩‍💻 Author
 
---
 
 Jaya Bhunte
 
