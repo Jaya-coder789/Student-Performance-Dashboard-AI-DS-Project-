@@ -1,0 +1,10 @@
+﻿Name,Gender,Subject,Marks,Result
+Aarav,Male,Math,78,Pass
+Priya,Female,Science,85,Pass
+Rahul,Male,English,,Pass
+Sneha,Female,Math,92,Pass
+Arjun,Male,Science,56,Pass
+Kavya,Female,English,,
+Vikram,Male,Math,34,Fail
+Ananya,Female,Science,73,Pass
+Rohit,Male,,65,Pass
